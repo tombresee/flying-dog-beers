@@ -27,6 +27,18 @@ Front End App
 
 |
 |
+
+Help
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+* https://dashboard.heroku.com/apps/michigan-milestone
+
+
+
+|
+|
+|
+|
 |
 |
 |
